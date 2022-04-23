@@ -1,0 +1,46 @@
+Organizer Application
+
+includes the following:
+- contactlist   - todolist  - calendar
+
+-> contactlist
+- relation
+- firstname
+- lastname
+- mobile
+- phone
+- mail
+
+functions:
+- search
+- select
+- create
+- update
+- delete
+
+-> todolist
+- check/uncheck
+- task
+- description
+
+functions:
+- create
+- update
+- delete
+- ckeck/uncheck
+
+-> calendar
+- year
+- month
+- day
+---> focus on actual day
+-> professional/privat
+-> appointment, deadline, meeting, holiday/vacation, education
+-> single day / period of time
+
+functions:
+- create
+- select
+- update
+- delete
+- reminder
